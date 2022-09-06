@@ -2,7 +2,7 @@
 ### Sep-2022
 #### Elaborado por: Laura Nogues
 
-El Desafio Tecnico de Mercado Libre consiste en tres ejercicios de Data Science: 
+El Desafio Técnico de Mercado Libre consiste en tres ejercicios de Data Science: 
 
 1) **EDA** donde se exploran las caracteristicas de las ofertas relámpago y los insights generados. 
 2) **Series de Tiempo**: el objetivo es construir un modelo de forecast que permita estimar las ventas de 3 semanas a nivel diario utilizando la historia de ventas de la categoría, el dataset utilizado consiste de tres categorias distintas. 
