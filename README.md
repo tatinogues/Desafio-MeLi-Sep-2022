@@ -1,6 +1,6 @@
 # Desafio Mercado Libre
-### Sep-2022
-#### Elaborado por: Laura Nogues
+### Laura Nogues
+#### Sep 2022
 
 El Desafio Técnico de Mercado Libre consiste en tres ejercicios de Data Science: 
 
